@@ -8,12 +8,12 @@
 * 📱 I make apps for the web
 * 🎓 I'm a Mechatronics Engineer student (graduating in January 2023)
 * 🌐 You can see some of my projects on [my portfolio](https://samuelprograms.github.io/portfolio/)
-* 
+
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCxUgwTt1bmirwPmtQejS1Mg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=19294476947"><img alt="Whatsapp" title="Whatsapp" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=19294476947"><img alt="Whatsapp" title="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-0f0?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/Samuelprograms"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ceronsamuel/"><img src="https://img.shields.io/badge/linkedin-00f.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -30,29 +30,29 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://samuelprograms.github.io/portfolio/"><b>Portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/samuelprograms/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/samuelprograms/portfolio?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Samuelprograms/social-network"><b>Social Network</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/samuelprograms/social-network?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/samuelprograms/social-network?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Samuelprograms/gmail-clone"><b>Gmail Clone</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/samuelprograms/gmail-clone?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/samuelprograms/gmail-clone?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Samuelprograms/todo"><b>Todo App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/samuelprograms/todo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/samuelprograms/todo?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Samuelprograms/netflix-clone"><b>Netflix Clone</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/samuelprograms/netflix-clone?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/samuelprograms/netflix-clone?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
