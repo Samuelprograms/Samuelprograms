@@ -112,5 +112,10 @@
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
         </tr>
+      <tr>
+            <td><a href="#"><img alt="VueJS" title="VueJS" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></a>
+            </td>
+        </tr>
     </tbody>
 </table>
